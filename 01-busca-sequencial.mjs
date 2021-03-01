@@ -143,7 +143,3 @@ console.timeEnd('Buscando FAUSTO')
 console.time('Buscando ZELIA')
 console.log(buscaSequencial(nomes, 'ZELIA'))
 console.timeEnd('Buscando ZELIA')
-
-
-
-
